@@ -1,4 +1,8 @@
 hello2
 hello from pcb
 hello from pca
+<<<<<<< HEAD
 helloasasd , kjkasdlk ,as;dlk
+=======
+hello from pca 2
+>>>>>>> a32f84e2411e22384d13b47c3c2e2bf0239db2a7
